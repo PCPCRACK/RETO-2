@@ -8,16 +8,16 @@
        if __name__ == "__main__" :
           print("Hola mundo")
 	 
-![image.png](https://i.postimg.cc/HcY5p8d8/block-de-notas.png)
+[![block-de-notas.png](https://i.postimg.cc/50vmS8rg/block-de-notas.png)](https://postimg.cc/HcY5p8d8)
 
 
 
 # Python
 
-![imagen.png](https://postimg.cc/TLtbh237][img]https://i.postimg.cc/TLtbh237/python.png)
+[![python.png](https://i.postimg.cc/QC3J4HG3/python.png)](https://postimg.cc/TLtbh237)
 
 
 
 #VSS
 
-![url.png](https://postimg.cc/Cndq8yZF][img]https://i.postimg.cc/Cndq8yZF/vs.png)
+[![vs.png](https://i.postimg.cc/Hxw8Zz9S/vs.png)](https://postimg.cc/wyBB3hPJ)
